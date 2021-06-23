@@ -1,8 +1,15 @@
 # Realtime Notifications Pusher
 
 <h2>About</h2>
-Realtime notification using Pusher.
-
+<p>Realtime notification using Pusher.</p>
+<p>
+    <a href="https://pusher.com/">Pusher</a> makes communication and collaboration APIs that power apps all over 
+    the world supported by easy to integrate SDKs for web, mobile, and backend.
+</p>
+<p>
+    Simple, scalable and reliable. Hosted realtime APIs loved by developers and trusted by giants. Build live dashboards, 
+    notifications, geotracking, chat and more.
+</p>
 
 <h2>Tools</h2>
 <ul>
