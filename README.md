@@ -2,8 +2,10 @@
 
 <h2>About</h2>
 <p>Realtime notification using Pusher.</p>
+
+<h4>Pusher</h4>
 <p>
-    <a href="https://pusher.com/">Pusher</a> makes communication and collaboration APIs that power apps all over 
+    <a href="https://pusher.com/" target="_blank">Pusher</a> makes communication and collaboration APIs that power apps all over 
     the world supported by easy to integrate SDKs for web, mobile, and backend.
 </p>
 <p>
